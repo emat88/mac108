@@ -1,6 +1,3 @@
 # mac108
 #cyberpunk_escaperoom
 
-name = input("Enter your hacker alias: ")
-print(f"\nWelcome, {name}. You're locked in a secure server room.")
-print("Alarms start in 60 seconds. Find a way out.\n")
